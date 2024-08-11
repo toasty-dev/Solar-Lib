@@ -29,17 +29,17 @@ Once done, follow the setup instructions in the [documentation](#-documentation)
 ## 🎨 Previews
 
 <div align="center">
-    <img src="https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png" alt="Peeware Logo" width="350">
+    <img src="https://github.com/toasty-dev/Solar-Lib/blob/main/previews/image%20(1).png?raw=true" width="350">
 </div>
 
 
 <div align="center">
-    <img src="https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png" alt="Peeware Logo" width="350">
+    <img src="https://github.com/toasty-dev/Solar-Lib/blob/main/previews/image_2024-08-11_092301027.png?raw=true" width="350">
 </div>
 
 
 <div align="center">
-    <img src="https://github.com/toasty-dev/imgproct/blob/main/Artboard%201.png" alt="Peeware Logo" width="350">
+    <img src="https://github.com/toasty-dev/Solar-Lib/blob/main/previews/image_2024-08-11_092336734.png?raw=true"  width="350">
 </div>
 
 ## 📚 Documentation
