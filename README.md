@@ -61,18 +61,6 @@ Absolutely! We welcome contributions. Feel free to fork the repository, make you
 
 Yes, you can easily create and apply custom themes using the theme module.
 
-## 🛠️ Contributing
-
-We’re always looking for contributors to help make Solar Lib even better. If you’d like to contribute:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
-For more details on contributing, please check out our [contribution guidelines](#).
-
 ## 🔧 Support
 
 If you encounter any issues or have questions, feel free to open an issue on the GitHub repository or join our Discord server for live support.
