@@ -39,7 +39,7 @@ Once done, follow the setup instructions in the [documentation](#-documentation)
 
 
 <div align="center">
-    <img src="https://github.com/toasty-dev/Solar-Lib/blob/main/previews/image_2024-08-11_092336734.png?raw=true"  width="500">
+    <img src="https://github.com/toasty-dev/Solar-Lib/blob/main/previews/image_2024-08-11_092336734.png?raw=true"  width="350">
 </div>
 
 ## 📚 Documentation
