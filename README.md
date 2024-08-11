@@ -9,7 +9,6 @@
 - [Previews](#-previews)
 - [Usage](#-usage)
 - [FAQ](#-faq)
-- [Contributing](#%EF%B8%8F-contributing)
 - [Support](#-support)
 - [Documentation](#-documentation)
 - [License](#-license)
