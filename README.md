@@ -44,7 +44,7 @@ Once done, follow the setup instructions in the [documentation](#-documentation)
 
 ## 📚 Documentation
 
-For a full guide on how to use Solar Lib, please visit our [Documentation](/main/LICENSE).
+For a full guide on how to use Solar Lib, please visit our [Documentation](/Documentation.md).
 
 ## 💬 FAQ
 
@@ -66,4 +66,4 @@ If you encounter any issues or have questions, feel free to open an issue on the
 
 ## 📜 License
 
-Solar Lib is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Solar Lib is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more details.
