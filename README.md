@@ -44,7 +44,7 @@ Once done, follow the setup instructions in the [documentation](#-documentation)
 
 ## 📚 Documentation
 
-For a full guide on how to use Solar Lib, please visit our [Documentation](#).
+For a full guide on how to use Solar Lib, please visit our [Documentation](/main/LICENSE).
 
 ## 💬 FAQ
 
